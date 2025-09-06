@@ -8,3 +8,5 @@ daily
 rencana belajar
 -belajar HTML
 -belajar CSS
+-CSS framework
+
