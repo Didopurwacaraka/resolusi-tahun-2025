@@ -3,4 +3,5 @@ daily
   -pagi
   -sore
 -bangun lebih pagi
+   -jam 5 pagi
 -ibadah
