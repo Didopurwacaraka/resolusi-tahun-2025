@@ -2,3 +2,4 @@ daily learning
 -belajar HTMl
 -belajar CSS
 -Belajar tailwind
+-belajar javascript
