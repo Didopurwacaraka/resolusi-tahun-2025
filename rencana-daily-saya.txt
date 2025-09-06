@@ -1,3 +1,5 @@
 daily learning
 -belajar HTMl
 -belajar CSS
+-belajar javascript
+    -react
