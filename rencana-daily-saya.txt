@@ -1,0 +1,6 @@
+daily
+-olahraga
+  -pagi
+  -sore
+-bangun lebih pagi
+-ibadah
