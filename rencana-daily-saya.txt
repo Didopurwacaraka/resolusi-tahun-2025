@@ -1,7 +1,8 @@
 daily
 -olahraga
-  -pagi
-  -sore
 -bangun lebih pagi
    -jam 5 pagi
 -ibadah
+rencana belajar
+-belajar HTML
+-belajar CSS
