@@ -2,6 +2,8 @@ daily
 -olahraga
   -pagi
   -sore
+  -malam
 -bangun lebih pagi
    -jam 5 pagi
 -ibadah
+  -solat 5 waktu
